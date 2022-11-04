@@ -8,8 +8,6 @@ public class Bass : MonoBehaviour
 	public GameObject explosionPrefab;
 
 
-	public Sprite BrokenSprite;
-
 	// Use this for initialization
 	void Start()
 	{
